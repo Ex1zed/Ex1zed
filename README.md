@@ -2,7 +2,6 @@
 
 ## I'm beginner Contentmaker and Data Engeneer.
 
-Latest Telegram posts
 
 ### Languages and Tools
 
