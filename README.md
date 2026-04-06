@@ -4,6 +4,12 @@
 
 Latest Telegram posts
 
-Languages and Tools
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)
+![JAVA](https://img.shields.io/badge/-JAVAscript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D5)
+![ML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=E9D5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=E9D5)
+![MAMP](https://img.shields.io/badge/-MAMP-090909?style=for-the-badge&logo=MAMP&logoColor=E9D5)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=E9D5)
 
 Follow me
