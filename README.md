@@ -1,4 +1,4 @@
-![Header](https://github.com/Ex1zed/Ex1zed/blob/main/assets/IMG_1396.jpg)
+![Header](https://github.com/Ex1zed/Ex1zed/blob/main/assets/IMG_1396.jpg?style=text-align:center)
 
 ## I'm beginner Contentmaker and Data Engeneer.
 
